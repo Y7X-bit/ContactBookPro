@@ -17,7 +17,7 @@ A clean, nostalgic contact manager with a retro XP theme — smooth, simple, and
 - Clean, scrollable contact list with XP-style scrollbar  
 - Status bar updates with friendly messages  
 - Persistent contact storage via `contacts.json`  
-- Chill branding label: 🔎 Powered by Y7X 💗  
+- Chill branding label: Powered by Y7X 💗  
 
 ---
 
