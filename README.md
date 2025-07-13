@@ -1,17 +1,19 @@
 <div align="center">
 
-# 🗂️ ContactXP
+# 🗂️ ContactXP 
+**🖥️ Classic XP look, modern flow — ContactXP flex**
 
-**Your ultimate classic Windows XP style contact book**  
+Your ultimate classic Windows XP style contact book 
 A clean, nostalgic contact manager with a retro XP theme — smooth, simple, and reliable.
+Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
 ![ContactXP Screenshot](assets/1.png)
 
+</div>
+
 ---
 
-<div align="left">
-
-## 🚀 Features
+## 🌟 Features at a Glance
 
 - **Retro Windows XP UI** vibes with authentic colors & style  
 - Add, Edit, Delete contacts easily  
@@ -21,15 +23,14 @@ A clean, nostalgic contact manager with a retro XP theme — smooth, simple, and
 - Persistent contact storage via `contacts.json`  
 - Chill branding label: 🔎 Powered by Y7X 💗  
 
-</div>
-
 ---
 
-<div align="left">
+## 🖥️ Installation
 
-## 🛠️ How to Run
+> Python 3.9 or later required
 
-1. Make sure you have Python 3 installed.  
-2. Clone this repo:  
-   ```bash
-   git clone https://github.com/Y7X-bit/contactxp.git
+```bash
+git clone https://github.com/Y7X-bit/ContactXP.git
+cd ContactXP
+pip install -r requirements.txt
+python RetroXP.py
